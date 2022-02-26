@@ -1,0 +1,13 @@
+/*estilo principal*/
+
+
+@import "../scss/componentes/header";
+@import "../scss/componentes/contacto";
+@import "../scss/componentes/excursiones";
+@import "../scss/componentes/experiencias";
+@import "../scss/componentes/footer";
+@import "../scss/componentes/nosotros";
+@import "../scss/componentes/viajes";
+@import "../scss/base/variables";
+
+body { background-color: $bgcolor-body;}
