@@ -34,7 +34,7 @@ header nav ul li {
   font-size: 20px;
   margin-top: 100px;
   margin-bottom: 100px;
-  color: blanchedalmond;
+  color: midnightblue;
 }
 
 /*estilo para excursiones*/
@@ -112,11 +112,15 @@ footer {
 .historia p {
   display: flex;
   justify-content: center;
+  margin-top: 60px;
+  margin-bottom: 100px;
 }
 
 .historia img {
   width: 60%;
   margin-left: 300px;
+  margin-top: 100px;
+  margin-bottom: 60px;
 }
 
 /*Seccion viajes*/
